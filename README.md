@@ -2,6 +2,7 @@
 
 Disque, an in-memory, distributed job queue
 ===
+disque是一个基于内存的分布式消息队列，它ad-hoc、自包含、故障转移
 
 Disque is an ongoing experiment to build a distributed, in-memory, message
 broker.
